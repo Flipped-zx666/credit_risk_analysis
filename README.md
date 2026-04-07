@@ -41,7 +41,7 @@
 
 ## 模型表现
 - 算法：逻辑回归（处理样本不平衡）
-- **AUC：0.83（优秀水平）**
+- **AUC：0.83**
 - 特征工程：对数变换 + 标准化后，模型完全收敛
 
 ## 业务建议
@@ -58,7 +58,7 @@
 ## 如何运行
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/credit_risk_analysis.git
+git clone https://github.com/Flipped-zx666/credit_risk_analysis.git
 
 # 安装依赖
 pip install -r requirements.txt
